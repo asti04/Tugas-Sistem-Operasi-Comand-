@@ -107,80 +107,97 @@ loca![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/12639
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/94660152-0525-4712-99c7-79266e154c48)
 
 27. yum --help
-    fungsi : 
+    fungsi : Untuk menginstal, menghapus, dan mengelola paket perangkat lunak.
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/b70629be-1564-4406-9117-f8d8d00b1e06)
 
 28. ifconfig --help 
-    fungsi : 
+    fungsi : Menampilkan informasi antarmuka jaringan (tidak digunakan lagi, digantikan dengan perintah ip).
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/b0a9f02b-5220-476a-8f96-99c9bf982dd4)
 
 29. ip --help
-    fungsi :
+    fungsi : Mengonfigurasi antarmuka dan perutean jaringan.
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/adac0f74-74a5-4981-99a1-f1ba01ff3d9b)
  
 30. ping --help
-    fungsi :
+    fungsi : Menguji konektivitas jaringan.
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/57b15903-941c-4168-b3fd-4d4c7e6046e9)
 
 31. ssh --help
-    fungsi :
+    fungsi : Terhubung ke sistem jarak jauh dengan aman.
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/6bed44be-0798-4a5d-aca7-2ceee26bf403)
 
 32. scp --help
-    fungsi :
+    fungsi : Menyalin file dengan aman antar host.
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/b5ae9bda-8aa9-40e3-b046-837725f0c3f9)
 
 33. wget --help
-    fungsi :
+    fungsi : Mengunduh file dari web.
 ![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/57ed43a9-6120-4725-a6cb-8053605695f9)
 
 34. curl --help
-    fungsi :
+    fungsi : Mentransfer data dari atau ke server.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/4f1a7d77-b8c5-4914-b29e-18da1157bbeb)
 
 35. crontab --help
-    fungsi :
+    fungsi : Menjadwalkan tugas untuk dijalankan secara berkala.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/8c4792c8-b7e7-4c35-998e-aac3e3b61ccf)
 
 36. useradd --help
-    fungsi :
+    fungsi : Menambahkan pengguna baru.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/d7009e92-8e2c-45e7-a16e-356703ea9830)
 
 37. userdel --help
-    fungsi :
+    fungsi : Menghapus pengguna.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/dcff3c53-830e-4617-b1b5-5a94363095c1)
 
 38. passwd --help
-    fungsi :
+    fungsi : Mengubah kata sandi pengguna.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/9c50d4ae-b073-49e7-9f4b-5a3ce82c5e9b)
 
 39. sudo --help
-    fungsi :
+    fungsi : Menjalankan perintah dengan hak pengguna super.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/1f4a2997-42e7-44e8-b638-804ea985b320)
 
 40. su --help
-    fungsi :
+    fungsi : Mengganti akun pengguna.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/790e09a8-3ceb-43c1-8fbc-2ce07abff353)
 
 41. history --help
-    fungsi :
+    fungsi : Menampilkan riwayat perintah.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/23c12113-cf4f-4290-be11-8a6a8a8008b1)
 
 42. date --help
-    fungsi :
+    fungsi : Menunjukkan tanggal dan waktu saat ini.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/cd1c5088-f950-47aa-9f1c-88050fe117b5)
 
 43. shutdown --help
-    fungsi :
+    fungsi : Mematikan atau memulai ulang sistem.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/98e96441-fc93-44b1-b99c-ac3155928876)
 
 44. exit --help
-    fungsi :
+    fungsi : Keluar dari shell saat ini.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/9f4e2479-fff5-40ac-9c9b-aa0ee690d44b)
 
 45. man --help
-    fungsi :
+    fungsi : Menampilkan halaman manual untuk perintah.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/c6ed3a21-913c-48a5-9dbd-70b729f46baf)
 
 46. clear --help
-    fungsi :
+    fungsi : Menghapus layar terminal.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/c44bc700-3a5d-47b5-97c4-fd4118c7866b)
 
 47. echo --help
-    fungsi :
+    fungsi : Mencetak teks ke terminal.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/06cb0b11-fa09-4321-92ed-f471264f890d)
 
 48. whoami --help
-    fungsi :
+    fungsi : Mencetak nama pengguna saat ini.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/92fe27cd-9851-48c0-84b0-0e5443d1b8a9)
 
 49. hostname --help
-    fungsi :
+    fungsi : Menampilkan atau menetapkan nama host sistem.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/f089e3a4-4b8f-43a9-be96-00842e6acc11)
 
 50. uname --help
-    fungsi :
+    fungsi : Mencetak informasi sistem.
+![image](https://github.com/asti04/Tugas-Sistem-Operasi-Comand-/assets/126399070/fddf6af8-60f0-49da-aacb-50c72458eff8)
